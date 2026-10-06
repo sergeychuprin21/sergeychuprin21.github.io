@@ -9,4 +9,4 @@
 :HL["/grosfarm3/a4553.webp","image",{"imageSrcSet":"/media/ab28696fef0ded48-480.webp 480w, /media/ab28696fef0ded48-960.webp 960w, /media/ab28696fef0ded48-1440.webp 1440w, /media/ab28696fef0ded48-2048.webp 2048w","imageSizes":"(max-width: 720px) 100vw, (max-width: 1100px) 92vw, 1024px"}]
 :HL["/grosfarm3/review-quote.svg","image"]
 :HL["/grosfarm3/review-telegram-fill.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"grosfarm2","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"DZJF2FONibTIZTibZDOUf"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"grosfarm2","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"oo-j-Lp8OSkxHk4qL4AWQ"}
