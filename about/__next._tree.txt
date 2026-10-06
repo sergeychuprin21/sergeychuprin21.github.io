@@ -3,4 +3,4 @@
 :HL["/_next/static/css/dbdfd235a9b43b6b.css","style"]
 :HL["/_next/static/css/acf89280237b4edc.css","style"]
 :HL["/fonts/onest-variable.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Z2dOm9P1aOuGKIydh2K4i"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"1Q6OACinmzKMUAg3ESMkd"}
