@@ -3,5 +3,5 @@
 :HL["/_next/static/css/dbdfd235a9b43b6b.css","style"]
 :HL["/_next/static/css/7d72ff767750797b.css","style"]
 :HL["/fonts/onest-variable.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
-:HL["/portfolio3/portrait-figma.webp","image",{"imageSrcSet":"/media/d6ee7a7d6262ad6e-128.webp 128w, /media/d6ee7a7d6262ad6e-256.webp 256w, /media/d6ee7a7d6262ad6e-480.webp 480w, /media/d6ee7a7d6262ad6e-640.webp 640w","imageSizes":"(max-width: 720px) 266px, 283px"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ITFH-SQYQfeBzKVO1uTsl"}
+:HL["/portfolio3/portrait-figma.webp","image",{"imageSrcSet":"/media/401bcc2371fd9b7f-128.webp 128w, /media/401bcc2371fd9b7f-256.webp 256w, /media/401bcc2371fd9b7f-480.webp 480w, /media/401bcc2371fd9b7f-640.webp 640w","imageSizes":"(min-width: 1301px) 254px, 283px"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Z2dOm9P1aOuGKIydh2K4i"}
