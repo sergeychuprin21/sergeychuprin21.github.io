@@ -1,0 +1,12 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="7.07275" height="7.0693" viewBox="0 0 7.07275 7.0693" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Cam Hole" filter="url(#filter0_f_0_18)">
+<ellipse cx="3.53638" cy="3.53465" rx="3.40816" ry="3.40644" fill="#141213"/>
+</g>
+<defs>
+<filter id="filter0_f_0_18" x="0" y="0" width="7.07275" height="7.0693" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="0.0641067" result="effect1_foregroundBlur_0_18"/>
+</filter>
+</defs>
+</svg>
