@@ -4,9 +4,9 @@
 :HL["/_next/static/css/c3eecb10a66753c9.css","style"]
 :HL["/_next/static/css/7500a990c3949a96.css","style"]
 :HL["/_next/static/css/ac9947cc92c79d5a.css","style"]
-:HL["/_next/static/css/f995cd670044a776.css","style"]
+:HL["/_next/static/css/a0571a26b090b74b.css","style"]
 :HL["/fonts/onest-variable.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
 :HL["/not-found/lost-explorer.png","image",{"imageSizes":"(max-width: 720px) 320px, 435px"}]
 :HL["/portfolio3/moments-logo-figma.webp","image",{"imageSizes":"56px"}]
 :HL["/moments3/hero-laptop.webp","image",{"imageSrcSet":"/media/54f51e641e319c92-480.webp 480w, /media/54f51e641e319c92-960.webp 960w, /media/54f51e641e319c92-1440.webp 1440w, /media/54f51e641e319c92-2000.webp 2000w","imageSizes":"(max-width: 720px) calc(100vw - 32px), (max-width: 1100px) calc(100vw - 48px), 1024px"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"moments","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"pjoKMKO2Qyu5uGD7p6Xfp"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"moments","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"X5dV0eaekdZumxv61QvCE"}
