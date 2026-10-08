@@ -1,6 +1,9 @@
 :HL["/_next/static/media/22a5144ee8d83bca-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/7d4881bb7e1bf84d-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/css/dbdfd235a9b43b6b.css","style"]
-:HL["/_next/static/css/b2214c792c4a7e34.css","style"]
+:HL["/_next/static/css/b20b83e92f97a43c.css","style"]
+:HL["/_next/static/css/c3eecb10a66753c9.css","style"]
+:HL["/_next/static/css/bbab76b7f6b51a17.css","style"]
 :HL["/fonts/onest-variable.ttf","font",{"crossOrigin":"anonymous","type":"font/ttf"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"oo-j-Lp8OSkxHk4qL4AWQ"}
+:HL["/not-found/lost-explorer.png","image",{"imageSizes":"(max-width: 720px) 320px, 435px"}]
+:HL["/_next/static/css/f995cd670044a776.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"pjoKMKO2Qyu5uGD7p6Xfp"}
