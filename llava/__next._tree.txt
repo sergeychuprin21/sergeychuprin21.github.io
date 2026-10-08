@@ -7,4 +7,4 @@
 :HL["/fonts/onest-variable.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/portfolio3/llava-logo-figma.svg","image",{"imageSizes":"56px","fetchPriority":"high"}]
 :HL["/projects/llava/case/hero-dashboard.png","image",{"imageSrcSet":"/media/5a715f88f4f4af47-480.webp 480w, /media/5a715f88f4f4af47-960.webp 960w, /media/5a715f88f4f4af47-1369.webp 1369w","imageSizes":"(max-width: 720px) calc(100vw - 32px), 1024px","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"llava","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"DLthLKv53jIy5tWoCmmH5"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"llava","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"BIGeU-WDyBTxwrg3FyZwn"}
