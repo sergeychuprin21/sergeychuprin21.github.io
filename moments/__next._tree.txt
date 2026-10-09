@@ -3,8 +3,8 @@
 :HL["/_next/static/css/9fac2599fb5ee18d.css","style"]
 :HL["/_next/static/css/7500a990c3949a96.css","style"]
 :HL["/_next/static/css/a0a5cd9dc8233194.css","style"]
-:HL["/_next/static/css/353fe4ec158d7aa3.css","style"]
+:HL["/_next/static/css/44099ad5efe7fcbb.css","style"]
 :HL["/fonts/onest-variable.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/portfolio3/moments-logo-figma.webp","image",{"imageSizes":"56px","fetchPriority":"high"}]
 :HL["/moments3/hero-laptop.webp","image",{"imageSrcSet":"/media/54f51e641e319c92-480.webp 480w, /media/54f51e641e319c92-960.webp 960w, /media/54f51e641e319c92-1440.webp 1440w, /media/54f51e641e319c92-2000.webp 2000w","imageSizes":"(max-width: 720px) calc(100vw - 32px), (max-width: 1100px) calc(100vw - 48px), 1024px","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"moments","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"QjCJ5VXWlahOedeEJfhGs"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"moments","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"WlIvdcEOWCOn2WfLfsJW0"}

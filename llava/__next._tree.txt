@@ -3,8 +3,8 @@
 :HL["/_next/static/css/9fac2599fb5ee18d.css","style"]
 :HL["/_next/static/css/7500a990c3949a96.css","style"]
 :HL["/_next/static/css/831177c69606cfe0.css","style"]
-:HL["/_next/static/css/353fe4ec158d7aa3.css","style"]
+:HL["/_next/static/css/44099ad5efe7fcbb.css","style"]
 :HL["/fonts/onest-variable.woff2","font",{"crossOrigin":"anonymous","type":"font/woff2"}]
 :HL["/portfolio3/llava-logo-figma.svg","image",{"imageSizes":"56px","fetchPriority":"high"}]
 :HL["/projects/llava/case/hero-dashboard.png","image",{"imageSrcSet":"/media/5a715f88f4f4af47-480.webp 480w, /media/5a715f88f4f4af47-960.webp 960w, /media/5a715f88f4f4af47-1369.webp 1369w","imageSizes":"(max-width: 720px) calc(100vw - 32px), 1024px","fetchPriority":"high"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"llava","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"QjCJ5VXWlahOedeEJfhGs"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"llava","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"WlIvdcEOWCOn2WfLfsJW0"}
